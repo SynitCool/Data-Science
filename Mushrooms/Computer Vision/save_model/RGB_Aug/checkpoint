@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_rgb_aug.ckpt"
+all_model_checkpoint_paths: "cnn_rgb_aug.ckpt"

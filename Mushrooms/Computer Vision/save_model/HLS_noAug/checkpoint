@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_hls_noAug.ckpt"
+all_model_checkpoint_paths: "cnn_hls_noAug.ckpt"
